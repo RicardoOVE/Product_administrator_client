@@ -48,7 +48,6 @@ const NuevoProducto = () => {
         </div>
     )
 
-    
 }
 
 export default NuevoProducto;
